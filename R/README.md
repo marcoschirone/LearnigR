@@ -1,6 +1,7 @@
 # Description of R/ folder and .R files
 
 Test of GitHub Push
+# Test of GitHub Push
 
 
 This folder contains custom functions or R scripts used for this project's
